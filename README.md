@@ -1,30 +1,59 @@
 # Botium Toys Security Compliance Audit Project
 
+![Audit Status](https://img.shields.io/badge/Audit%20Status-Completed-green)
+![Risk Level](https://img.shields.io/badge/Risk%20Level-High-red)
+
 ## 📋 Table of Contents
 - [Overview](#overview)
-- [Supporting Documents](#supporting-documents)
+- [Documentation](#documentation)
 - [Key Findings](#key-findings)
 - [Controls Assessment](#controls-assessment)
 - [Recommendations](#recommendations)
 
 ## Overview
-This security audit evaluates Botium Toys' security posture, focusing on controls implementation and regulatory compliance as the company expands its online presence internationally.
+Internal security audit for Botium Toys evaluating security controls, compliance with payment processing regulations, and EU business requirements as the company expands its online presence internationally.
 
-## Supporting Documents
-The audit was conducted using the following reference documents:
-
+## Documentation
+This audit was conducted using:
 1. **Scope, Goals, and Risk Assessment Report**
-   - Detailed audit scope
-   - Current assets inventory
-   - Risk assessment findings
-   - Current security posture
-   - Initial compliance status
+   - Risk Score: 8/10 (High)
+   - Current assets evaluation
+   - Compliance status review
 
-2. **Control Categories Reference**
-   - Administrative/Managerial controls
-   - Technical controls
-   - Physical/Operational controls
-   - Control types and purposes
-   - Implementation guidelines
+2. **Control Categories Analysis**
+   - Administrative Controls
+   - Technical Controls
+   - Physical Controls
 
-## Project Structure
+## Key Findings
+### Current Security Status
+- Inadequate asset management
+- Insufficient access controls
+- Missing encryption for customer data
+- Limited password policies
+- No disaster recovery plans
+
+### Compliance Gaps
+- PCI DSS: Partial compliance
+- GDPR: Privacy measures needed
+- SOC: Access control improvements required
+
+## Controls Assessment
+### Critical Areas Needing Attention
+- [ ] Implement least privilege access
+- [ ] Establish encryption protocols
+- [ ] Develop disaster recovery plans
+- [ ] Enhance password management
+- [ ] Deploy IDS systems
+
+## Recommendations
+1. **Immediate Actions Needed:**
+   - Implement data encryption
+   - Establish access controls
+   - Create disaster recovery plans
+   - Deploy security monitoring
+
+2. **Long-term Improvements:**
+   - Regular security training
+   - Continuous monitoring
+   - Quarterly audits
