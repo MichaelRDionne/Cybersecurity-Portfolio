@@ -1,6 +1,7 @@
 # Botium Toys Security Compliance Audit Project
 
 ![Audit Status](https://img.shields.io/badge/Audit%20Status-Completed-green)
+![Documentation](https://img.shields.io/badge/Documentation-Available-blue)
 ![Risk Level](https://img.shields.io/badge/Risk%20Level-High-red)
 
 ## 📋 Table of Contents
@@ -11,7 +12,7 @@
 - [Recommendations](#recommendations)
 
 ## Overview
-Internal security audit for Botium Toys evaluating security controls, compliance with payment processing regulations, and EU business requirements as the company expands its online presence internationally.
+An internal security audit for Botium Toys evaluates security controls, compliance with payment processing regulations, and EU business requirements as the company expands its online presence internationally.
 
 ## Documentation
 This audit was conducted using:
