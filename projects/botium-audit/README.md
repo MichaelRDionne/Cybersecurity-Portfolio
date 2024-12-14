@@ -12,7 +12,7 @@
 - [Recommendations](#recommendations)
 
 ## Overview
-Internal security audit conducted for Botium Toys to evaluate security controls, compliance with payment processing regulations, and EU business requirements as the company expands internationally.
+An internal security audit was conducted for Botium Toys to evaluate security controls, compliance with payment processing regulations, and EU business requirements as the company expanded internationally.
 
 ## Documentation Review
 Audit based on analysis of:
@@ -26,8 +26,8 @@ Audit based on analysis of:
 - On-premises equipment
 - Employee equipment (workstations, devices)
 - Storefront products (retail/online)
-- Management systems (accounting, security, ecommerce)
-- Network infrastructure
+- Management systems (accounting, security, e-commerce)
+- Network Infrastructure
 - Data storage systems
 - Legacy systems
 
